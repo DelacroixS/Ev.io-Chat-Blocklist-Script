@@ -1,6 +1,10 @@
 # Ev.io-Chat-Blocklist-Script
 A script for Tampermonkey that adds a blocklist for the ev.io chat. You can block users/hide user chat messages and hide all guest messages.
 
+## Preview
+
+![Ev.io Block Script Preview](https://i.ibb.co/mSBSt45/Ev-io-Script-Blocklist.jpg)
+
 ## Instructions
 
 NOTE: This has only been tested in Chrome. You need the Tampermonkey extension, in order for this to work. You can get it over at the Chrome Webstore https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related?hl=en
@@ -15,5 +19,3 @@ NOTE: This has only been tested in Chrome. You need the Tampermonkey extension, 
 8) Click Install
 
 Voilà! You can now block users in Ev.io from the ingame chat. 
-
-![Ev.io Block Script Preview](https://i.ibb.co/mSBSt45/Ev-io-Script-Blocklist.jpg)
