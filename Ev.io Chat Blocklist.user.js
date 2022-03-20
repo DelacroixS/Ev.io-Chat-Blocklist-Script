@@ -138,7 +138,7 @@ addBlocklist();
 
 
 //
-let blackList = [''];
+let blackList = [];
 
 if (localStorage.getItem('blockList') === null) {
     localStorage.blockList =JSON.stringify(blackList);
