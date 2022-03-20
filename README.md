@@ -15,3 +15,5 @@ NOTE: This has only been tested in Chrome. You need the Tampermonkey extension, 
 8) Click Install
 
 Voilà! You can now block users in Ev.io from the ingame chat. 
+
+![Ev.io Block Script Preview](https://i.ibb.co/mSBSt45/Ev-io-Script-Blocklist.jpg)
